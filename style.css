@@ -1,0 +1,21 @@
+body{
+    background: white;
+    color: lightblue ;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+
+.name_of_family_member, #result_family_member_name , #result_object_accuracy{
+    color:black;
+}
+
+
+#camera, #result{
+    border: 2px dashed antiquewhite;
+    width:350px;
+    height: 300px;
+}
